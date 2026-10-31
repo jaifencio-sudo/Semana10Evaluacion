@@ -1,0 +1,8 @@
+## Copia este archivo como local.properties (NO se sube a Git) y completa los valores.
+## Ruta del SDK de Android (Android Studio la crea sola):
+# sdk.dir=C\:\\Users\\TU_USUARIO\\AppData\\Local\\Android\\Sdk
+
+## Clave NUEVA de Google Maps (revoca la anterior). Restríngela en Google Cloud
+## Console por nombre de paquete (com.example.jaimemaps) + huella SHA-1 y
+## limítala a "Maps SDK for Android".
+MAPS_API_KEY=PEGA_AQUI_TU_NUEVA_API_KEY

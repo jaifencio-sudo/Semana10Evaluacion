@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Jaimemaps" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/jaime_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/jaime_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/jaime_on_primary_container</item>
+        <item name="colorSecondary">@color/jaime_secondary</item>
+    </style>
+
+    <style name="Theme.Jaimemaps" parent="Base.Theme.Jaimemaps" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="jaime_primary">#1F6F5C</color>
+    <color name="jaime_primary_container">#B7F0DE</color>
+    <color name="jaime_on_primary_container">#00201A</color>
+    <color name="jaime_secondary">#4A635B</color>
+    <color name="launcher_background">#1F6F5C</color>
+</resources>

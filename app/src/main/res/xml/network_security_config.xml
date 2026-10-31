@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Protección contra ataques de red (MITM):
+  - Se prohíbe TODO tráfico HTTP sin cifrar (cleartext).
+  - Solo se confía en los certificados instalados por el sistema; los certificados
+    que agregue el usuario (p. ej. un proxy interceptor) NO son aceptados.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

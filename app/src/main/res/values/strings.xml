@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">jaimemaps</string>
+    <string name="cd_my_location">Mi ubicación</string>
+    <string name="cd_camera">Tomar foto</string>
+    <string name="cd_clear">Eliminar marcadores</string>
+    <string name="cd_photo">Foto capturada (toca para ocultar)</string>
+    <string name="auth_title">Verifica tu identidad</string>
+    <string name="auth_subtitle">Usa tu huella o el PIN del dispositivo</string>
+    <string name="auth_not_available">Configura un bloqueo de pantalla (PIN, patrón o huella) para usar la app</string>
+    <string name="action_not_authorized">Acción no autorizada</string>
+    <string name="marker_dialog_title">Nombre del marcador</string>
+    <string name="marker_name_hint">Ej: Casa, Plaza 2</string>
+    <string name="marker_invalid">Nombre inválido: usa solo letras, números, espacios y . , - _ (máx. 40)</string>
+    <string name="marker_save_error">No se pudo guardar el marcador</string>
+</resources>

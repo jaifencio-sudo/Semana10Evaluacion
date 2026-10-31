@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Secretos y firma de producción (nunca subir a Git)
+keystore.properties
+*.jks
+*.keystore
+*.apk
+*.aab
